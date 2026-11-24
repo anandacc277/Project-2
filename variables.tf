@@ -5,6 +5,6 @@ variable "aws_region" {
 }
 
 variable "bucket_name" {
-  description = "S3 bucket name (must be globally unique)"
+  description = "anand-Project2-bucket"
   type        = string
 }
