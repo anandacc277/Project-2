@@ -63,12 +63,6 @@ After deployment:
 http://<bucket-name>.s3-website-us-east-1.amazonaws.com
 ```
 
-## Cost Estimate
-
-- S3 Storage: ~$0.023/GB/month
-- S3 Requests: ~$0.0004 per 1,000 requests
-- **Typical small site: < $1/month**
-
 ## Support
 
 For more information:
